@@ -1,0 +1,17 @@
+localhost/projectrapor
+
+LOGIN ADMIN
+username : admin
+password : @Palembang2021
+
+LOGIN WALAS X IPA 1
+username : kania
+password : 12345
+
+LOGIN WALAS X IPA 2
+username : kalila
+password : 12345
+
+login siswa
+localhost/projectrapor/student
+username dan password sesuai dg data peserta didik tiap kelas
